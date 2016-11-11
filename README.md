@@ -1,6 +1,6 @@
 # Swing Animation Project  
 ## Description
-This program displays multiple red balls in a black background moving in many different direction. Each ball bounces off the wall when it "hits" the sides of the screen. The program also displays initial radius, position and velocity. After frame 1000, a data dump made displaying the current position and velocity of each particle in the display. Every 30 frames is displayed
+This program displays multiple red balls in a black background moving in many different direction. Each ball bounces off the wall when it "hits" the sides of the screen. The program also displays values of input file and initial radius, position and velocity. After frame 1000, a data dump is made displaying the current position and velocity of each particle in the display. Futhermore, every 30 frames is displayed.
 
 This project is intended to learn:
 
